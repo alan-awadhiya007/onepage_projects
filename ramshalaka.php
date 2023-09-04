@@ -218,11 +218,17 @@
                 return matchedChoupai;
             }
 
+            // Function to remove all child elements from a parent element
+            function removeAllChildNodes(parent) {
+                while (parent.firstChild) {
+                    parent.removeChild(parent.firstChild);
+                }
+            }
+
 
             function readLetters(startIndex) {
                 removePrevSelection();
 
-                const resultElement = document.getElementById("result");
                 let lettersToRead = `${letters[startIndex]}`;
                 let skipLetters = 8;
 
@@ -241,15 +247,38 @@
                     console.log(`readLetters() :: loop-nextIndex: `, nextIndex);
                 }
 
-                
-                let matchedChoupai = findMaxCharMatchChoupai(lettersToRead, answers);
-                const { maxMatchCount, choupai, sno } = matchedChoupai;
-                console.log(`readLetters() :: matchedChoupai: `, matchedChoupai);
+
+                /* RESULTS */
+                    const resultElement = document.getElementById("result");
+                    removeAllChildNodes(resultElement);
+                    let matchedChoupai = findMaxCharMatchChoupai(lettersToRead, answers);
+                    console.log(`readLetters() :: matchedChoupai: `, matchedChoupai);
+                    
+                    var selectedLettersElement = document.createElement('p');
+                    selectedLettersElement.innerHTML = `<b>रामशलाका अक्षर :</b></br>  ${lettersToRead}</br>`;
+
+                    var selectedChoupaiElement = document.createElement('p');
+                    selectedChoupaiElement.innerHTML = `<b>चौपाई :</b></br>  ${matchedChoupai.choupai} ${matchedChoupai.sno} ॥</br>`;
+
+                    var selectedMeaningElement = document.createElement('p');
+                    selectedMeaningElement.innerHTML = `<b>संदर्भ और अर्थ :</b>  ${matchedChoupai.meaning}`;
+
+                    var selectedAnswerElement = document.createElement('p');
+                    selectedAnswerElement.innerHTML = `<b>फल :</b>  ${matchedChoupai.answer}`;
+                    
+                    var selectedMatchCountElement = document.createElement('p');
+                    selectedMatchCountElement.innerHTML = `<b>अक्षरों की संख्या :</b>  ${matchedChoupai.maxMatchCount}`;
+                    // Append the elements to the parent element
+                    resultElement.appendChild(selectedLettersElement);
+                    resultElement.appendChild(selectedMatchCountElement);
+                    resultElement.appendChild(selectedChoupaiElement);
+                    resultElement.appendChild(selectedMeaningElement);
+                    resultElement.appendChild(selectedAnswerElement);
+                /* RESULTS */
 
                 const selectedCell = document.getElementById("cell_" + startIndex);
                 selectedCell.classList.remove("ninth-cell");
                 selectedCell.classList.add("selected-cell");
-                resultElement.innerHTML = `<b>RESULT :</b>  <p>${lettersToRead}</p></br><b>चौपाई :</b></br>  ${choupai} ${sno} ॥`;
             }
 
             // Get the parent element where you want to add the content
