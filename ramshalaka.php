@@ -87,17 +87,7 @@
             यह चौपाई बालकाण्डान्तर्गत शिव और पार्वतीके संवादमें है । प्रश्नकर्ताको इस उत्तरस्वरूप चौपाईसे यह आशय निकालना चाहिये कि कार्य होनेमें संदेह है, अतः उसे भगवान्पर छोड़ देना श्रेयस्कर है । इस चौपाईके अतिरिक्त श्रीरामशलाका प्रश्नावलीसे और भी जितनी चौपाइयाँ बनती हैं, उन सबका स्थान और फलसहित उल्लेख नीचे किया जाता है-
         </p>
 
-        <div>
-            <p><b>चौपाई</b> :</br> सुनु सिय सत्य असीस हमारी |</br> पूजहि मन कामना तुम्हारी ॥</br><b>संदर्भ और अर्थ</b>: जब माता गौरी सीता माता के प्रेम के वश हो गई, तो उनकी मूर्ति मुस्कराई, और उनके पहनी माला गिर पड़ी, सीता ने प्रसाद रूप से उस माला को धारण किया, तब गौरी माता बोली 'हे सीता ! मेरे सच्ची आशीष है, की तुम्हारी मनोकामना सिद्ध होगी'.<br><b>फल</b>: अपने इष्ट का पूजन करें, सफलता मिलेगी.</p>
-            <p><b>चौपाई</b> :</br> प्रबिसि नगर कीजे सब काजा |</br> हृदय राखि कोसलपुर राजा ॥</br><b>संदर्भ और अर्थ</b>: जब हनुमानजी लंका प्रवेश के लिए जाते है, तो लंकिनी राक्षसिनी उनको रोकती है, तब हनुमान के मुक्के खा कर वो डर के कहती है 'आप अयोध्या के राजा श्री राम का स्मरण करके लंका में अपने कार्य को करने के लिए प्रवेश कीजिये' .<br><b>फल</b>: अपने प्रभु का स्मरण करते हुए कार्य की शुरुआत करें, सफलता मिलेगी.</p>
-            <p><b>चौपाई</b> :</br> उघरहिं अंत न होइ निबाहू |</br> कालनेमि जिमि रावन राहू ॥</br><b>संदर्भ और अर्थ</b>: तुलसीदासजी कहते है की जैसे कपटी को साधु के वेश को देख कर संसार उसकी पूजा तो करता है, पर कपट अंत तक नहीं चलता, वो प्रकट हो ही जाता है, जैसे कालनेमि, रावण और राहु का हुआ था.<br><b>फल</b>: अगर कार्य न्याय पूर्ण नहीं है, तो उसकी सफलता संदिग्ध है.</p>
-            <p><b>चौपाई</b> :</br> बिधि बस सुजन कुसंगत परहीं |</br> फनि मनि सम निज गुन अनुसरहीं ॥</br><b>संदर्भ और अर्थ</b>: तुलसीदासजी कहते है की दुष्ट भी सत्संगी का साथ पाकर सुधर जाते है, परन्तु, दैवयोग से सज्जन यदि कुसंगति में फंस जाते है, तो भी सर्प  की मणि की भांति अपने सद्गुणों का अनुसरण करते है.<br><b>फल</b>: अगर बुरे लोगों का साथ है, तो उनका साथ छोड़ दे, वरना कार्य की सफलता में संदेह है.</p>
-            <p><b>चौपाई</b> :</br> होइहि सोइ जो राम रचि राखा |</br> को करितर्क बढ़ावै साखा ॥</br><b>संदर्भ और अर्थ</b>: जब शिव, श्री राम की जय बोलकर पुलकित होने लगे, तो माता सती को संदेह हुआ की राम जो एक मनुष्य है, उसकी शिव क्यों वंदना कर रहे है, अगर वो विष्णु अवतार है तो क्यों एक मनुष्य की भांति सीता को ढूंढ रहे है, तब शिवजी उनको बहुत समझाते है, पर स्त्री स्वाभाव के कारण वो समझती नहीं है, तब शिव विचार करते है 'होगा वही जो राम ने रच रखा है, तर्क करके क्यों विस्तार देना'.<br><b>फल</b>: संयम रखें, जो प्रभु की इच्छा होगी, वो ही होगा, अत: सफलता में संदेह है.</p>
-            <p><b>चौपाई</b> :</br> मुद मंगलमय संत समाजू |</br> जो जग जंगम तीरथ राजू ॥</br><b>संदर्भ और अर्थ</b>: राम चरित्र का वर्णन करते हुए तुलसीदासजी कहते है 'संतो का समाज मन को प्रसन्नता और मंगल देने वाला है, जो जगत में प्रयागराज तीर्थ के समान है'.<br><b>फल</b>: संतो का आशीर्वाद लें, कार्य सफल होगा.</p>
-            <p><b>चौपाई</b> :</br> गरल सुधा रिपु करहिं मिताई |</br> गोपद सिंधु अनल सितलाई ॥</br><b>संदर्भ और अर्थ</b>: जब हनुमानजी लंका प्रवेश के लिए जाते है, तो लंकिनी राक्षसिनी उनको रोकती है, तब हनुमान के मुक्के खा कर वो डर के राम नाम के स्मरण का कह कर हनुमान जी को लंका प्रवेश का आग्रह करती है और कहती है 'राम के स्मरण से विष अमृत हो जाता है, रिपु मित्रवत हो जाता है, समुद्र गाय के खुर के समान हो जाता है और अग्नि शीतल हो जाती है '.<br><b>फल</b>: प्रभु का स्मरण करके कार्य करें, कार्य अवश्य सिद्ध होता है.</p>
-            <p><b>चौपाई</b> :</br> बरुन कुबेर सुरेस समीरा |</br> रन सन्मुखधरि काहु न धीरा ॥</br><b>संदर्भ और अर्थ</b>: रावण के वध पर मंदोदरी विलाप करते हुए कहती है 'वरुण, कुबेर, इंद्र और वायु, इनमें से किसी ने भी रण में तुम्हारे सामने धैर्य धारण नहीं किया, पर आज तुम अनाथ की भांति पड़े हो'.<br><b>फल</b>: कार्य असफल होने के पुरे लक्षण है.</p>
-            <p><b>चौपाई</b> :</br> सुफल मनोरथ हो हुँ तुम्हारे |</br> रामु लखनु सुनि भए सुखारे ॥</br><b>संदर्भ और अर्थ</b>: गुरु विश्वामित्र अपनी सेवा से प्रसन्न होकर कहते है 'हे राम ! तुम्हारे सारे मनोरथ सफल होंगे', राम और लक्ष्मण ये सुनकर सुख से भर जाते है.<br><b>फल</b>: अपने गुरु का आर्शीवाद ले, मनोरथ पूर्ण होगा.</p>
-        </div>
+        <div class="answers"></div>
 
     </div>
 
@@ -112,6 +102,64 @@
 
     <script>
         // $(document).ready(function() {
+            // Your JSON data
+            var answers = [
+                {
+                    sno: 1,
+                    choupai: "सुनु सिय सत्य असीस हमारी |</br> पूजहि मन कामना तुम्हारी ॥",
+                    meaning: "जब माता गौरी सीता माता के प्रेम के वश हो गई, तो उनकी मूर्ति मुस्कराई, और उनके पहनी माला गिर पड़ी, सीता ने प्रसाद रूप से उस माला को धारण किया, तब गौरी माता बोली 'हे सीता ! मेरे सच्ची आशीष है, की तुम्हारी मनोकामना सिद्ध होगी'.<br>",
+                    answer: "अपने इष्ट का पूजन करें, सफलता मिलेगी.</br></br></br>"
+                },
+                {
+                    sno: 2,
+                    choupai: "प्रबिसि नगर कीजे सब काजा |</br> हृदय राखि कोसलपुर राजा ॥",
+                    meaning: "जब हनुमानजी लंका प्रवेश के लिए जाते है, तो लंकिनी राक्षसिनी उनको रोकती है, तब हनुमान के मुक्के खा कर वो डर के कहती है 'आप अयोध्या के राजा श्री राम का स्मरण करके लंका में अपने कार्य को करने के लिए प्रवेश कीजिये' .<br>",
+                    answer: "अपने प्रभु का स्मरण करते हुए कार्य की शुरुआत करें, सफलता मिलेगी.</br></br></br>"
+                },
+                {
+                    sno: 3,
+                    choupai: "उघरहिं अंत न होइ निबाहू |</br> कालनेमि जिमि रावन राहू ॥",
+                    meaning: "तुलसीदासजी कहते है की जैसे कपटी को साधु के वेश को देख कर संसार उसकी पूजा तो करता है, पर कपट अंत तक नहीं चलता, वो प्रकट हो ही जाता है, जैसे कालनेमि, रावण और राहु का हुआ था.<br>",
+                    answer: "अगर कार्य न्याय पूर्ण नहीं है, तो उसकी सफलता संदिग्ध है.</br></br></br>"
+                },
+                {
+                    sno: 4,
+                    choupai: "बिधि बस सुजन कुसंगत परहीं |</br> फनि मनि सम निज गुन अनुसरहीं ॥",
+                    meaning: "तुलसीदासजी कहते है की दुष्ट भी सत्संगी का साथ पाकर सुधर जाते है, परन्तु, दैवयोग से सज्जन यदि कुसंगति में फंस जाते है, तो भी सर्प  की मणि की भांति अपने सद्गुणों का अनुसरण करते है.<br>",
+                    answer: "अगर बुरे लोगों का साथ है, तो उनका साथ छोड़ दे, वरना कार्य की सफलता में संदेह है.</br></br></br>"
+                },
+                {
+                    sno: 5,
+                    choupai: "होइहि सोइ जो राम रचि राखा |</br> को करितर्क बढ़ावै साखा ॥",
+                    meaning: "जब शिव, श्री राम की जय बोलकर पुलकित होने लगे, तो माता सती को संदेह हुआ की राम जो एक मनुष्य है, उसकी शिव क्यों वंदना कर रहे है, अगर वो विष्णु अवतार है तो क्यों एक मनुष्य की भांति सीता को ढूंढ रहे है, तब शिवजी उनको बहुत समझाते है, पर स्त्री स्वाभाव के कारण वो समझती नहीं है, तब शिव विचार करते है 'होगा वही जो राम ने रच रखा है, तर्क करके क्यों विस्तार देना'.<br>",
+                    answer: "संयम रखें, जो प्रभु की इच्छा होगी, वो ही होगा, अत: सफलता में संदेह है.</br></br></br>"
+                },
+                {
+                    sno: 6,
+                    choupai: "मुद मंगलमय संत समाजू |</br> जो जग जंगम तीरथ राजू ॥",
+                    meaning: "राम चरित्र का वर्णन करते हुए तुलसीदासजी कहते है 'संतो का समाज मन को प्रसन्नता और मंगल देने वाला है, जो जगत में प्रयागराज तीर्थ के समान है'.<br>",
+                    answer: "संतो का आशीर्वाद लें, कार्य सफल होगा.</br></br></br>"
+                },
+                {
+                    sno: 7,
+                    choupai: "गरल सुधा रिपु करहिं मिताई |</br> गोपद सिंधु अनल सितलाई ॥",
+                    meaning: "जब हनुमानजी लंका प्रवेश के लिए जाते है, तो लंकिनी राक्षसिनी उनको रोकती है, तब हनुमान के मुक्के खा कर वो डर के राम नाम के स्मरण का कह कर हनुमान जी को लंका प्रवेश का आग्रह करती है और कहती है 'राम के स्मरण से विष अमृत हो जाता है, रिपु मित्रवत हो जाता है, समुद्र गाय के खुर के समान हो जाता है और अग्नि शीतल हो जाती है '.<br>",
+                    answer: "प्रभु का स्मरण करके कार्य करें, कार्य अवश्य सिद्ध होता है.</br></br></br>"
+                },
+                {
+                    sno: 8,
+                    choupai: "बरुन कुबेर सुरेस समीरा |</br> रन सन्मुखधरि काहु न धीरा ॥",
+                    meaning: "रावण के वध पर मंदोदरी विलाप करते हुए कहती है 'वरुण, कुबेर, इंद्र और वायु, इनमें से किसी ने भी रण में तुम्हारे सामने धैर्य धारण नहीं किया, पर आज तुम अनाथ की भांति पड़े हो'.<br>",
+                    answer: "कार्य असफल होने के पुरे लक्षण है.</br></br></br>"
+                },
+                {
+                    sno: 9,
+                    choupai: "सुफल मनोरथ हो हुँ तुम्हारे |</br> रामु लखनु सुनि भए सुखारे ॥",
+                    meaning: "गुरु विश्वामित्र अपनी सेवा से प्रसन्न होकर कहते है 'हे राम ! तुम्हारे सारे मनोरथ सफल होंगे', राम और लक्ष्मण ये सुनकर सुख से भर जाते है.<br>",
+                    answer: "अपने गुरु का आर्शीवाद ले, मनोरथ पूर्ण होगा.</br></br></br>"
+                }
+            ];
+            
             let letters = [
                 // Add all 125 Hindi letters here
                 "सु", "प्र", "उ", "बि", "हो", "मु", "ग", "ब", "सु", "नु", "बि", "घ", "धि", "इ", "द",
@@ -139,10 +187,48 @@
                 });
             }
 
+            function findMaxCharMatchChoupai(str, jsonArr) {
+                let maxMatchCount = 0;
+                let maxMatchChoupai = '';
+                let matchedChoupai = {};
+
+                for (const item of jsonArr) {
+                    const choupai = item.choupai.replace(/<\/?br\s*\/?>/g, ' '); // Remove line breaks
+                    const words = choupai.split(' ');
+
+                    let matchCount = 0;
+
+                    for (const word of words) {
+                        for (const char of str) {
+                            if (word.includes(char)) {
+                                matchCount += 1;
+                            }
+                        }
+                    }
+
+                    if (matchCount > maxMatchCount) {
+                        maxMatchCount = matchCount;
+                        maxMatchChoupai = choupai;
+
+                        matchedChoupai = item;
+                        matchedChoupai.maxMatchCount = matchCount;
+                    }
+                }
+
+                return matchedChoupai;
+            }
+
+            // Function to remove all child elements from a parent element
+            function removeAllChildNodes(parent) {
+                while (parent.firstChild) {
+                    parent.removeChild(parent.firstChild);
+                }
+            }
+
+
             function readLetters(startIndex) {
                 removePrevSelection();
 
-                const resultElement = document.getElementById("result");
                 let lettersToRead = `${letters[startIndex]}`;
                 let skipLetters = 8;
 
@@ -161,11 +247,60 @@
                     console.log(`readLetters() :: loop-nextIndex: `, nextIndex);
                 }
 
+
+                /* RESULTS */
+                    const resultElement = document.getElementById("result");
+                    removeAllChildNodes(resultElement);
+                    let matchedChoupai = findMaxCharMatchChoupai(lettersToRead, answers);
+                    console.log(`readLetters() :: matchedChoupai: `, matchedChoupai);
+                    
+                    var selectedLettersElement = document.createElement('p');
+                    selectedLettersElement.innerHTML = `<b>रामशलाका अक्षर :</b></br>  ${lettersToRead}</br>`;
+
+                    var selectedChoupaiElement = document.createElement('p');
+                    selectedChoupaiElement.innerHTML = `<b>चौपाई :</b></br>  ${matchedChoupai.choupai} ${matchedChoupai.sno} ॥</br>`;
+
+                    var selectedMeaningElement = document.createElement('p');
+                    selectedMeaningElement.innerHTML = `<b>संदर्भ और अर्थ :</b>  ${matchedChoupai.meaning}`;
+
+                    var selectedAnswerElement = document.createElement('p');
+                    selectedAnswerElement.innerHTML = `<b>फल :</b>  ${matchedChoupai.answer}`;
+                    
+                    var selectedMatchCountElement = document.createElement('p');
+                    selectedMatchCountElement.innerHTML = `<b>अक्षरों की संख्या :</b>  ${matchedChoupai.maxMatchCount}`;
+                    // Append the elements to the parent element
+                    resultElement.appendChild(selectedLettersElement);
+                    resultElement.appendChild(selectedMatchCountElement);
+                    resultElement.appendChild(selectedChoupaiElement);
+                    resultElement.appendChild(selectedMeaningElement);
+                    resultElement.appendChild(selectedAnswerElement);
+                /* RESULTS */
+
                 const selectedCell = document.getElementById("cell_" + startIndex);
                 selectedCell.classList.remove("ninth-cell");
                 selectedCell.classList.add("selected-cell");
-                resultElement.innerHTML = `<p>${lettersToRead}</p>`;
             }
+
+            // Get the parent element where you want to add the content
+            var parentElement = document.querySelector('.answers');
+
+            // Loop through the JSON data and create HTML elements dynamically
+            answers.forEach(function(item) {
+                var choupaiElement = document.createElement('p');
+                choupaiElement.innerHTML = `<b>चौपाई :</b></br>  ${item.choupai} ${item.sno} ॥</br>`;
+                
+                var meaningElement = document.createElement('p');
+                meaningElement.innerHTML = `<b>संदर्भ और अर्थ :</b>  ${item.meaning}`;
+                
+                var answerElement = document.createElement('p');
+                answerElement.innerHTML = `<b>फल :</b>  ${item.answer}`;
+                
+                // Append the elements to the parent element
+                parentElement.appendChild(choupaiElement);
+                parentElement.appendChild(meaningElement);
+                parentElement.appendChild(answerElement);
+            });
+
 
         // });
     </script>
